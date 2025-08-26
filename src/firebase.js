@@ -27,13 +27,16 @@ import {
 //   measurementId: "G-Q4TYKH9GG7",
 // };
 
+
+
 const firebaseConfig = {
-  apiKey: "AIzaSyCfDyRlVfD4LXDiEAhqRdmnO4uHQDh6HSE",
-  authDomain: "sample-47bf7.firebaseapp.com",
-  projectId: "sample-47bf7",
-  storageBucket: "sample-47bf7.appspot.com",
-  messagingSenderId: "677920709463",
-  appId: "1:677920709463:web:b8b1cff8f134c6c6c2fc12"
+  apiKey: "AIzaSyBADowJaR_ZgU-GFMeSiNLgFSVnoG0JKjA",
+  authDomain: "projectis4301.firebaseapp.com",
+  projectId: "projectis4301",
+  storageBucket: "projectis4301.firebasestorage.app",
+  messagingSenderId: "17217168074",
+  appId: "1:17217168074:web:9cec771a84952b18f3ca33",
+  measurementId: "G-C4LJ2T4ENK"
 };
 
 const app = initializeApp(firebaseConfig);
