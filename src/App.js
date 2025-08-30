@@ -5,7 +5,8 @@ import Register from "./Register";
 import Reset from "./Reset";
 import Dashboard from "./Dashboard";
 
-// Test change for GitHub Actions
+
+// Testing change for GitHub Actions
 
 function App() {
   return (
